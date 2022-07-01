@@ -30,6 +30,10 @@
       {
          "traint_type":"File Type",
          "value":"PNG"
+      },
+      {
+         "trait_type":"Creative Commons License",
+         "value":"Attribution-NonCommercial-ShareAlike 4.0 International License"
       }
    ]
 }
