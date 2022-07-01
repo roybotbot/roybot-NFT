@@ -1,0 +1,39 @@
+{
+    "format": "CHIP-0007",
+    "name": "roybot",
+    "description": "The One True Roybot",
+    "minting_tool": "roybotCLI",
+    "sensitive_content": false,
+    "attributes": [
+        {
+            "trait_type": "Creator",
+            "value": "Roy Natian"
+        },
+        {
+            "trait_type": "Copyright Year",
+            "value": "2020"
+        },
+        {
+            "trait_type": "Medium",
+            "value": "Digital Art"
+        }
+    ],
+    "collection": {
+        "name": "The One True Roybot",
+        "id": "24126634-34f6-42ca-b4ae-1dd3a59e5c43",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "A collection of one: The One True Roybot"
+            },
+            {
+                "type": "icon",
+                "value": "https://jdq7bqir3c7unsy7uzga3xc3mibgmcjv52ryzla57on3khyji4.arweave.net/SOHwwRHYv0bLH6ZMDdxbYgJmCTXuo4ys-HfubtR8JR0"
+            },
+            {
+                "type": "website",
+                "value": "https:/roybot.io/NFT/the-one-true-roybot"
+            }
+        ]
+    }
+}
