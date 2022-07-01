@@ -1,0 +1,35 @@
+{
+   "format":"CHIP-0007",
+   "name":"The Angry Man Dressed as a Bat",
+   "description":"A man that is angry. He is also dressed as a bat.",
+   "minting_tool":"roybotCLI",
+   "sensitive_content":false,
+   "attributes":[
+      {
+         "trait_type":"Emotion",
+         "value":"Anger"
+      },
+      {
+         "trait_type":"Anger Level Percentage",
+         "value":59,
+         "min_value":0,
+         "max_value":100
+      },
+      {
+         "trait_type":"Creation Date",
+         "value":"2022-06-30"
+      },
+      {
+         "traint_type":"Dimensions Width",
+         "value":"3328 px"
+      },
+      {
+         "traint_type":"Dimensions Height",
+         "value":"3328 px"
+      },
+      {
+         "traint_type":"File Type",
+         "value":"PNG"
+      }
+   ]
+}
