@@ -1,0 +1,51 @@
+{
+    "format": "CHIP-0007",
+    "name": "bobdigital - The First Post",
+    "description": "A legend? A menace? This is bobdigital’s first known post in Chia Network’s public Keybase team.",
+    "minting_tool": "roybotCLI",
+    "sensitive_content": false,
+    "attributes": [
+        {
+            "trait_type": "Keybase Channel",
+            "value": "chia_network.public#general"
+        },
+        {
+            "trait_type": "Post Date",
+            "value": "2022-02-07"
+        },
+        {
+            "trait_type": "Post Time",
+            "value": "02:00 UTC",
+        },
+        {
+            "trait_type": "Keybase Users",
+            "value": "bobdigital, morebytes",
+        },
+        {
+            "trait_type": "Keybase Post Direct Link",
+            "value": "keybase://chat/chia_network.public#general/230977",
+        },
+        {
+            "trait_type": "Post Date ISO 8601",
+            "value": "20220207T020000Z",
+        }
+    ],
+    "collection": {
+        "name": "bobdigital - The Beginning",
+        "id": "96363848-5882-4d35-8e3c-b2b683cd9fe77",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "A collection of bobdigital's beginnings in Chia Network's public Keybase team."
+            },
+            {
+                "type": "icon",
+                "value": "https://examplepokemoncollection.com/image/icon.png"
+            },
+            {
+                "type": "website",
+                "value": "https://roybot.io/NFT/bobdigital"
+            }
+        ]
+    }
+}
