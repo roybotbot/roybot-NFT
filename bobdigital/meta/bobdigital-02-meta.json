@@ -1,7 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "bobdigital - The First Post",
-    "description": "A legend? A menace? This is bobdigital’s first known post in Chia Network’s public Keybase team.",
+    "name": "bobdigital - The First Interaction",
+    "description": "A legend? A menace? This is bobdigital’s first interaction in Chia Network’s public Keybase team.",
     "minting_tool": "roybotCLI",
     "sensitive_content": false,
     "attributes": [
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Keybase Users",
-            "value": "bobdigital, morebytes",
+            "value": "bobdigital, morebytes, hoffmang",
         },
         {
             "trait_type": "Keybase Post Direct Link",
