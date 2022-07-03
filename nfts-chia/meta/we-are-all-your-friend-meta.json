@@ -1,0 +1,45 @@
+{
+   "format":"CHIP-0007",
+   "name":"We Are All Your F̵̜̟̟̰͇̪̻̰̪̔̋̔͠r̴̡̨͙͓̳͈͚̣͔̯̫͈͍͇̩̖͖̆ȉ̸͉̰͍͉͖̺̣̳̯̮͕̻̀͋̈́͗͆̿̽͘͘͝͝e̵̢̨̙̹̲̗̹͉͖͐͑̒̈́̏́́̂̽̕͘͝͝ͅń̴̨̡̧͓̟̻̜͕͓͉̯̎̀̃̎͋͆d̸̡̛͇̪̯̖̹͖͈̝̮̹̞̰̓͛̆",
+   "description":"They are the only friend you need. Unnaturally birthed through the averaging of all 10000 Chia Friends™",
+   "minting_tool":"roybotCLI",
+   "sensitive_content":false,
+   "attributes":[
+      {
+         "trait_type":"Souls",
+         "value":"10000"
+      },
+      {
+         "trait_type":"Background",
+         "value":"All Of Them"
+      },
+      {
+         "trait_type":"Body",
+         "value":"All Of Them"
+      },
+      {
+         "trait_type":"Eyes",
+         "value":"All Of Them"
+      },
+      {
+         "trait_type":"Hieroglyphs",
+         "value":"All Of Them"
+      },
+      {
+         "trait_type":"Mouth",
+         "value":"All Of Them"
+      },
+      {
+         "trait_type":"Birth Date of Your Friend",
+         "value":"2022-07-03"
+      },
+      {
+         "trait_type":"Conception Method",
+         "value":"Python Image Library (PIL)"
+      },
+      {
+         "trait_type":"Website",
+         "value":"https://roybot.io/nft/your-friend/"
+      }
+   ]
+}

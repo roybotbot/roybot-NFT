@@ -31,7 +31,7 @@
         }
     ],
     "collection": {
-        "name": "bobdigital - The Beginning",
+        "name": "bobdigital - The Beginnings",
         "id": "96363848-5882-4d35-8e3c-b2b683cd9fe77",
         "attributes": [
             {
@@ -44,7 +44,7 @@
             },
             {
                 "type": "website",
-                "value": "https://roybot.io/nft/bobdigital"
+                "value": "https://roybot.io/nft/bobdigital/"
             }
         ]
     }
