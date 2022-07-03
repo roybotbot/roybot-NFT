@@ -1,7 +1,7 @@
 {
     "format": "CHIP-0007",
-    "name": "bobdigital - The First Interaction",
-    "description": "A legend? A menace? This is bobdigital’s first interaction in Chia Network’s public Keybase team.",
+    "name": "bobdigital - The First Response",
+    "description": "This is the first time someone responded directly to bobdigital.",
     "minting_tool": "roybotCLI",
     "sensitive_content": false,
     "attributes": [

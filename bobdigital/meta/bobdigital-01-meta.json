@@ -15,26 +15,25 @@
         },
         {
             "trait_type": "Post Time",
-            "value": "02:00 UTC",
+            "value": "02:00 UTC"
         },
         {
             "trait_type": "Keybase Users",
-            "value": "bobdigital, morebytes",
+            "value": "bobdigital, morebytes"
         },
         {
             "trait_type": "Keybase Post Direct Link",
-            "value": "keybase://chat/chia_network.public#general/230977",
+            "value": "keybase://chat/chia_network.public#general/230977"
         },
         {
             "trait_type": "Post Date - ISO 8601",
-            "value": "20220207T020000Z",
+            "value": "20220207T020000Z"
         }
     ],
     "collection": {
         "name": "bobdigital - The Beginnings",
         "id": "96363848-5882-4d35-8e3c-b2b683cd9fe77",
-        "attributes": [
-            {
+        "attributes": [{
                 "type": "description",
                 "value": "A collection documenting bobdigital's beginnings in Chia Network's public Keybase team."
             },
