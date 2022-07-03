@@ -1,7 +1,7 @@
 {
     "format": "CHIP-0007",
     "name": "bobdigital - The First Response",
-    "description": "This is the first time someone responded directly to bobdigital.",
+    "description": "The first time someone responded directly to bobdigital.",
     "minting_tool": "roybotCLI",
     "sensitive_content": false,
     "attributes": [
@@ -15,19 +15,27 @@
         },
         {
             "trait_type": "Post Time",
-            "value": "02:00 UTC",
+            "value": "02:00 UTC"
+        },
+        {
+            "trait_type": "Responder",
+            "value": "hoffmang"
         },
         {
             "trait_type": "Keybase Users",
-            "value": "bobdigital, morebytes, hoffmang",
+            "value": "bobdigital, morebytes, hoffmang"
         },
         {
             "trait_type": "Keybase Post Direct Link",
-            "value": "keybase://chat/chia_network.public#general/230977",
+            "value": "keybase://chat/chia_network.public#general/230977"
         },
         {
             "trait_type": "Post Date - ISO 8601",
-            "value": "20220207T020000Z",
+            "value": "20220207T020000Z"
+        },
+        {
+            "trait_type": "Website",
+            "value": "https://roybot.io/nft/bobdigital/"
         }
     ],
     "collection": {
